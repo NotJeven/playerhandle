@@ -1,0 +1,2128 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"score_play",
+				"score_playerInGame"
+			],
+			[
+				"score_player",
+				"score_playerInGame_min"
+			],
+			[
+				"objec",
+				"scoreboard objectives setdisplay"
+			],
+			[
+				"score_a",
+				"score_menuVar_min"
+			],
+			[
+				"score_menuvar",
+				"score_menuVar_min"
+			],
+			[
+				"score_menu",
+				"score_menuVar"
+			],
+			[
+				"score_menuVar",
+				"score_menuVar_min"
+			],
+			[
+				"score_men",
+				"score_menuVar"
+			],
+			[
+				"teams",
+				"scoreboard teams option"
+			],
+			[
+				"CustomName",
+				"CustomNameVisible"
+			],
+			[
+				"o",
+				"scoreboard objectives add"
+			],
+			[
+				"team",
+				"scoreboard teams add"
+			],
+			[
+				"add",
+				"scoreboard objectives add"
+			],
+			[
+				"scoreboard",
+				"scoreboard objectives"
+			],
+			[
+				"score_",
+				"score_admin_min"
+			],
+			[
+				"score_admin",
+				"score_admin_min"
+			],
+			[
+				"tr",
+				"title\treset"
+			],
+			[
+				"score_in",
+				"score_inGame_min"
+			],
+			[
+				"title",
+				"title\treset"
+			],
+			[
+				"op",
+				"scoreboard players operation"
+			],
+			[
+				"score_te",
+				"score_test_min"
+			],
+			[
+				"score",
+				"scoreboard players"
+			],
+			[
+				"make",
+				"make_edits"
+			],
+			[
+				"edit",
+				"edit_from_functions"
+			],
+			[
+				"dum",
+				"parse_from_dumps"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"parse",
+				"parse_from_dumps"
+			],
+			[
+				"DIRE",
+				"DIRECTORY_IN"
+			],
+			[
+				"direc",
+				"directory_in"
+			],
+			[
+				"new",
+				"new_c"
+			],
+			[
+				"in",
+				"input_commands"
+			],
+			[
+				"function",
+				"function_names"
+			],
+			[
+				"ed",
+				"edited_commands"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"misc",
+				"miscfindreplace"
+			],
+			[
+				"tag",
+				"TAG_ORDER"
+			],
+			[
+				"selector",
+				"selectorxyz"
+			],
+			[
+				"w",
+				"while\tWhile Loop"
+			],
+			[
+				"command",
+				"command"
+			],
+			[
+				"love",
+				"love.timer.getAverageDelta"
+			],
+			[
+				"functio",
+				"function\tfunction"
+			],
+			[
+				"nodenode",
+				"nodeNodeMatARP"
+			],
+			[
+				"m_node",
+				"m_nodeMaterial"
+			],
+			[
+				"m_seg",
+				"m_segmentMaterial"
+			],
+			[
+				"segseg",
+				"segSegMatARP"
+			],
+			[
+				"text",
+				"Texture2D"
+			],
+			[
+				"nodl",
+				"nodeLod"
+			],
+			[
+				"Texture",
+				"Texture2D"
+			],
+			[
+				"RailsE",
+				"RailsE"
+			],
+			[
+				"Onlevel",
+				"OnLevelUnloading ()\tInvoked when the level is unloading (typically when going back to the main menu or prior to loading a new level)"
+			],
+			[
+				"Onleve",
+				"OnLevelLoaded (LoadMode mode)\tInvoked when a level has completed the loading process. The mode defines what kind of level was just loaded"
+			],
+			[
+				"I",
+				"ILoadingExtension"
+			],
+			[
+				"void",
+				"void OnUpdate ()\tCalled once per frame."
+			],
+			[
+				"voidon",
+				"void OnCreated\tInvoked when the extension initializes"
+			],
+			[
+				"se",
+				"senderID\tCitizen id of the sender"
+			],
+			[
+				"Iload",
+				"ILoadingExtension"
+			],
+			[
+				"set",
+				"simulationTime\tCurrent simulation date/time"
+			],
+			[
+				"Ic",
+				"IChipperMessage\t3"
+			],
+			[
+				"random",
+				"randomChange"
+			],
+			[
+				"gra",
+				"graphics"
+			],
+			[
+				"score_laser_",
+				"score_laser_inGame"
+			],
+			[
+				"laser_player",
+				"laser_playerEnter"
+			],
+			[
+				"score_laser",
+				"score_laser_inGame"
+			],
+			[
+				"laser_in",
+				"laser_inGame"
+			],
+			[
+				"laser_rechar",
+				"laser_recharged"
+			],
+			[
+				"score_las",
+				"score_laser_inGame"
+			],
+			[
+				"score_ar",
+				"score_art_p"
+			],
+			[
+				"score_art",
+				"score_art_p"
+			],
+			[
+				"art_qu",
+				"art_queueArea"
+			],
+			[
+				"art_q",
+				"art_qTrigger"
+			],
+			[
+				"art_",
+				"art_qTrigger"
+			],
+			[
+				"art_player",
+				"art_playerCount"
+			],
+			[
+				"score_stella_var",
+				"score_stella_var_min"
+			],
+			[
+				"stella_feed",
+				"stella_feedCounter"
+			],
+			[
+				"stella_fee",
+				"stella_feedCounter"
+			],
+			[
+				"stella_an",
+				"stella_answered"
+			],
+			[
+				"score_ste",
+				"score_stella_qora"
+			],
+			[
+				"score_stella_q",
+				"score_stella_qora_min"
+			],
+			[
+				"random_e",
+				"random_e"
+			],
+			[
+				"score_stella",
+				"score_stella_qora"
+			],
+			[
+				"score_stella_",
+				"score_stella_giveText"
+			],
+			[
+				"food_dia",
+				"food_diaIntro"
+			],
+			[
+				"food_foodde",
+				"food_foodDetect"
+			],
+			[
+				"score_food_dia",
+				"score_food_dialogProg"
+			],
+			[
+				"food_vend",
+				"food_vendPotato"
+			],
+			[
+				"score_food_fa",
+				"score_food_foodBread_min"
+			],
+			[
+				"score_food",
+				"score_food_dialogProg1_min"
+			],
+			[
+				"score_food_",
+				"score_food_foodHas"
+			],
+			[
+				"food",
+				"food_complete"
+			],
+			[
+				"food_carr",
+				"food_foodCarrot"
+			],
+			[
+				"score_food_v",
+				"score_food_v_min"
+			],
+			[
+				"food_foodPo",
+				"food_foodPotato"
+			],
+			[
+				"food_food",
+				"food_foodSteak"
+			],
+			[
+				"food_foo",
+				"food_foodPotato"
+			],
+			[
+				"food_intro",
+				"food_introVoicePass"
+			],
+			[
+				"foo",
+				"food_v"
+			],
+			[
+				"food_",
+				"food_introVoice"
+			],
+			[
+				"conn",
+				"connectCount"
+			],
+			[
+				"con",
+				"connectCount"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"dsscap",
+				"dssCaptainAmount"
+			],
+			[
+				"dssLost",
+				"dssLostAmount"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"dssSail",
+				"dssSailAmount"
+			],
+			[
+				"dsssail",
+				"dssSailAmount"
+			],
+			[
+				"dss",
+				"dssSailAmount"
+			],
+			[
+				"shi",
+				"shipHP"
+			],
+			[
+				"dssCap",
+				"dssCaptainSucc"
+			],
+			[
+				"dssLos",
+				"dssLostSucc"
+			],
+			[
+				"dsslo",
+				"dssLostSucc"
+			],
+			[
+				"dssH",
+				"dssHullSucc"
+			],
+			[
+				"dssh",
+				"dssHullAmount"
+			],
+			[
+				"score_value",
+				"score_value_min"
+			],
+			[
+				"sore_",
+				"score_dssCaptaining_min"
+			],
+			[
+				"score_inGame",
+				"score_inGame_min"
+			],
+			[
+				"score_va",
+				"score_value"
+			],
+			[
+				"score_valu",
+				"score_value_min"
+			],
+			[
+				"dsssai",
+				"dssSailAmount"
+			],
+			[
+				"init",
+				"initPlayer"
+			],
+			[
+				"redston",
+				"redstone_block"
+			],
+			[
+				"gameloop",
+				"gameLoopOn"
+			],
+			[
+				"battle",
+				"battleAICannon5"
+			],
+			[
+				"aica",
+				"AICannon1"
+			],
+			[
+				"score_battle",
+				"score_battleCooldown"
+			],
+			[
+				"ship",
+				"shipAIHP"
+			],
+			[
+				"battleAI",
+				"battleAICooldown"
+			],
+			[
+				"AI",
+				"AICannon1"
+			],
+			[
+				"interfa",
+				"interfaceCannonLoop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "playerhandle.sublime-project",
+			"settings":
+			{
+				"buffer_size": 52,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cats Everywhere Build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Cats Everywhere Build.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/sublime-build/java_jar.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/java_javadoc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/java_packaged.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/love2d.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/mcfunction_project.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/VHDL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sublime-build/java_jar.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/java_javadoc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/java_packaged.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/love2d.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/mcfunction_project.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-build/VHDL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sublime-build/mcfunction_project.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/subllualove-master/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/subllualove-master/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/subllualove-master/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/subllualove-master/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/subllualove-master/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/subllualove-master/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "projec",
+		"selected_items":
+		[
+			[
+				"projec",
+				"Project: Edit Project"
+			],
+			[
+				"close",
+				"File: Close"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"proj",
+				"Project: Edit Project"
+			],
+			[
+				"ex",
+				"Sublime: Exit"
+			],
+			[
+				"c",
+				"File: Close All"
+			],
+			[
+				"closeall",
+				"File: Close All"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"exit",
+				"Sublime: Exit"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"",
+				"File: Delete"
+			],
+			[
+				"fli",
+				"File: Close"
+			],
+			[
+				"filec",
+				"File: Close"
+			],
+			[
+				"file clo",
+				"File: Close"
+			],
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"file close",
+				"File: Close"
+			],
+			[
+				"fileclose",
+				"File: Close"
+			],
+			[
+				"file clos",
+				"File: Close All"
+			],
+			[
+				"file:c",
+				"File: Close"
+			],
+			[
+				"open",
+				"File Open: Whatever"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ed",
+				"Project: Edit Project"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"edit pro",
+				"Project: Edit Project"
+			],
+			[
+				"file",
+				"File: Close All"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control li",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: lua",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: cities skylines api"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"add fil",
+				"Git: Add Current File"
+			],
+			[
+				"git add ",
+				"Git: Quick Add"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git: add",
+				"Git: Add Remote"
+			],
+			[
+				"git check",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"gitlog",
+				"Git: Log"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"1200*20",
+			"20*60",
+			"15*20",
+			"20*15",
+			"20*5",
+			"20*8",
+			"s",
+			"s=s.replace('cat', 'some')",
+			"s.replace('cat', 'some')",
+			"s",
+			"s.replace('thing', 'some')",
+			"s = 'some thing'",
+			"2528/2",
+			"2192 + 336",
+			"-88+136",
+			"273/2",
+			"-78-88",
+			"a.index(5)",
+			"a",
+			"a = (1,5,7,3,8)",
+			"a.index(5)",
+			"a = {1,5,7,3,8}",
+			"l[2]",
+			"l.index('a')",
+			"l",
+			"s",
+			"len(s2.split(' '))",
+			"s2 = 'playsound random.pop master @a[score_activate_min=1,score_activate=1,score_menuVis_min=0,score_menuVis=1] ~ ~ ~ .2 1.3 .2'",
+			"len(s.split(' '))",
+			"s = 'playsound random.pop @a[score_activate_min=1,score_activate=1,score_menuVis_min=0,score_menuVis=1] ~ ~ ~ .2 1.3 .2'",
+			"s.replace('g','t')",
+			"s = 'abcef'",
+			"s",
+			"l",
+			"l.insert(2,'a')",
+			"l = [5,6,7,8,9]",
+			"l",
+			"l +='efg'",
+			"len(l)",
+			"l='abcd'",
+			"os.path",
+			"import os",
+			"range(len(l))",
+			"len(l)",
+			"l = [5,2,6,6,7,2,7,2,7]",
+			"l = [a,b,c,d,e]",
+			"s2",
+			"s1",
+			"s2 = 'cat'",
+			"s2",
+			"s2 = s1.strip()",
+			"s1",
+			"s1 = \"basd basd\"",
+			"def a(cat):",
+			"a",
+			"a.remove(3)",
+			"a",
+			"a.append(5)",
+			"a",
+			"a.remove(5)",
+			"a.append(5)",
+			"a",
+			"a.append(3)",
+			"a = []",
+			"currly",
+			"currly += 1",
+			"currly",
+			"currly += 1",
+			"currly = 0",
+			"s.replace('asd','123')",
+			"s=\"asdtttttttttttttasdttttttttasdffffffasdtttt\"",
+			"s.find('\"GG\"') == -1 and s[s.find('GG')-1] in 'sd'",
+			"s.find('\"GG\"') == -1 and s[s.find('GG')-1] in 's'",
+			"s.find('\"GG\"') == -1 and s[s.find('GG')-1] not in 'd'",
+			"s.find('\"GG\"') == -1 and s[s.find('GG')-1] not in 's'",
+			"command.find('\"GG\"') == -1 and s[s.find('GG')-1] not in 's'",
+			"command.find('\"GG\"') == -1 and s[s.find('GG')-1] not in 's':",
+			"command.find('\"GG\"') == -1 and s[s.find('GG')-1] not in 's'",
+			"command.find('GG') and s[s.find('d')-1] not in ':,'",
+			"s[s.find('d')-1] not in ':,'",
+			"s[s.find('d')-1]",
+			"s.find('d')-1",
+			"s[-2]",
+			"s[-1]",
+			"s",
+			"s.lower()",
+			"s",
+			"s = \"AbsdGGas\"",
+			"s.find('a')",
+			"s.find('r')",
+			"s.index('r')",
+			"s = \"asdf\"",
+			"x.index('[',9)",
+			"x.index('[',1)",
+			"x.index('[',2)",
+			"x.index('[')",
+			"x = \"execute[asdasome tages] ~ ~ ~ ~ execute[scome tages] 123213 asdasd\"",
+			"a[:-5]",
+			"a = \"abc\"",
+			"s",
+			"s.strip()",
+			"s",
+			"s = \"asdasd asdsad \"",
+			"exit",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"-2 *16",
+			"4 - 6",
+			"math.floor(77/16)",
+			"floor(77/16)",
+			"math.floor(77/16)",
+			"math.ceil(77/16)",
+			"math.float(1.5)",
+			"import math",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/PlayerHandle/functions"
+	],
+	"file_history":
+	[
+		"/C/Projects/Eris/eris.sublime-project",
+		"/C/Projects/GameHandle/functions/gamehandle/clock.mcfunction",
+		"/C/Projects/PlayerHandle/playerhandle.sublime-project",
+		"/C/Projects/Eris/functions/eris/clock.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/init_objectives.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/init_player.mcfunction",
+		"/C/Projects/Eris/functions/eris/alivewhile.mcfunction",
+		"/C/Projects/Eris/functions/eris/playerinit.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/alive_end.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/alive_while.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/death_end.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/alive_pre.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/init",
+		"/C/Projects/PlayerHandle/function/playerhandle/death_while.mcfunction",
+		"/C/Projects/PlayerHandle/function/playerhandle/death_pre.mcfunction",
+		"/C/Projects/Eris/functions/eris/alivepre.mcfunction",
+		"/C/Projects/Eris/functions/eris/deathwhile.mcfunction",
+		"/C/Projects/Eris/functions/eris/deathpre.mcfunction",
+		"/C/Projects/GameHandle/gamehandle.sublime-project",
+		"/C/Projects/MCMenu/functions/mcmenu/clock.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/test.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown_start_ready.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown_start_reset.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown_end.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/game_start.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/reset_start.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/game_end.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/objective_init.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/var_init.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/var_set.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_on.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/restart_start.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown_action.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/admin_start.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/team1.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/activate_admin.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/left.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/admin_make.mcfunction",
+		"/C/Projects/MCMenu/MCMenu.sublime-project",
+		"/C/Projects/MCMenu/functions/mcmenu/toggle_menu.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_off.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/player_init.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/random_teams.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/random_teams_done.mcfunction",
+		"/C/Users/Justin/Desktop/Minecraft Server 1.12.2/MCMenu/data/functions/mcmenu/clock.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready_calc.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready3_not.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready3.mcfunction",
+		"/c/projects/eris/functions/eris/loadandreset.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready1_toggle.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready3_toggle.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready1.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready1_not.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready2.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready2_not.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/activate.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/reset_on.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/reset_off.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/reset_auto_toggle.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown_action_start.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready2_toggle.mcfunction",
+		"/c/projects/eris/functions/eris/ready3.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/team2.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/request.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_init.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_init",
+		"/C/Users/Justin/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/C/Projects/MCMenu/functions/mcmenu/admin_remove.mcfunction",
+		"/c/projects/eris/functions/eris/autoresettoggle.mcfunction",
+		"/c/projects/eris/functions/eris/scorereset.mcfunction",
+		"/c/projects/eris/functions/eris/startreset.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/reset_teams.mcfunction",
+		"/c/projects/eris/functions/eris/resetteam.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/remove_admin.mcfunction",
+		"/c/projects/eris/functions/eris/removeadmin.mcfunction",
+		"/c/projects/eris/functions/eris/togglemenu.mcfunction",
+		"/c/projects/eris/functions/eris/adminstart.mcfunction",
+		"/c/projects/eris/functions/eris/randomteamdone.mcfunction",
+		"/c/projects/eris/functions/eris/randomteam.mcfunction",
+		"/c/projects/eris/functions/eris/admin.mcfunction",
+		"/c/projects/eris/functions/eris/ready2.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/ready2_toggle",
+		"/c/projects/eris/functions/eris/ready1.mcfunction",
+		"/c/projects/eris/functions/eris/ready.mcfunction",
+		"/c/projects/eris/functions/eris/clock.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/team3.mcfunction",
+		"/c/projects/eris/functions/eris/team3.mcfunction",
+		"/c/projects/eris/functions/eris/team1.mcfunction",
+		"/c/projects/eris/functions/eris/team2.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/team_leave.mcfunction",
+		"/c/projects/eris/functions/eris/team0.mcfunction",
+		"/c/projects/eris/functions/eris/left.mcfunction",
+		"/c/projects/eris/functions/eris/activateadmin.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_activate.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menu_request.mcfunction",
+		"/c/projects/eris/functions/eris/activate.mcfunction",
+		"/c/projects/eris/functions/eris/requestmenu.mcfunction",
+		"/C/Users/Justin/Desktop/Minecraft Server 1.12.2/Eris 0.22.1/data/functions/eris/mapinit.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/request_menu.mcfunction",
+		"/c/projects/eris/functions/eris/invaderwin.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/countdown15.mcfunction",
+		"/c/projects/eris/functions/eris/15.mcfunction",
+		"/c/projects/eris/functions/eris/summonvars.mcfunction",
+		"/C/Projects/MCMenu/functions/mcmenu/menuclock.mcfunction",
+		"/C/Projects/Eris/todo.md",
+		"/C/Projects/Eris/functions/eris/eggs.mcfunction",
+		"/C/Projects/Eris/functions/eris/autoresettoggle.mcfunction",
+		"/C/Projects/Eris/functions/eris/resetteam.mcfunction",
+		"/C/Users/Justin/AppData/Local/Temp/7zEBC4.tmp/README.txt",
+		"/C/Maps/WildFlower/Display.mcc",
+		"/C/Maps/Project Arrgh/todo.note",
+		"/C/Projects/Eris/functions/eris/randomteamdone.mcfunction",
+		"/C/Projects/Eris/functions/eris/spawner3.mcfunction",
+		"/C/Projects/Eris/functions/eris/spawner6.mcfunction",
+		"/C/Projects/Eris/functions/eris/spawner2.mcfunction",
+		"/C/Projects/Eris/functions/eris/loadandreset.mcfunction",
+		"/C/Projects/Eris/functions/eris/autoresetinfo.mcfunction",
+		"/C/Projects/Eris/functions/eris/activateadmin.mcfunction",
+		"/C/Projects/Eris/functions/eris/colors.mcfunction",
+		"/C/Projects/Eris/functions/eris/togglemenu.mcfunction",
+		"/C/Projects/Eris/functions/eris/enddisplay.mcfunction",
+		"/C/Projects/Eris/functions/eris/endgame.mcfunction",
+		"/C/Projects/Eris/functions/eris/variableset.mcfunction",
+		"/C/Projects/Eris/functions/eris/objectiveinit.mcfunction",
+		"/C/Projects/Eris/functions/eris/summonvars.mcfunction",
+		"/C/Projects/Eris/functions/eris/removeadmin.mcfunction",
+		"/C/Projects/Eris/changelog",
+		"/C/Users/Justin/Desktop/playerinit.mcfunction"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0",
+			"objectives",
+			"e_timeSi",
+			"e_re",
+			"e_inG",
+			"InGame=0",
+			"_respawn",
+			"_inG",
+			"_timeS",
+			"_inG",
+			"_time",
+			"_res",
+			"_time",
+			"_in",
+			"game",
+			"In",
+			"[\" | \"]",
+			",[\" | \"]",
+			"\"],[",
+			"\"text\":",
+			"}}",
+			" \"},",
+			"{\"te",
+			"_left",
+			"team2",
+			"@p admin",
+			"ready1",
+			"ready",
+			"y1",
+			"triggerOption",
+			"triggerTeam",
+			"triggerOption",
+			"objectives",
+			"1098",
+			"_admin",
+			"execute @e[type=armor_stand,name=vAutoReset,score_var_min=11,score_var=11] ~ ~ ~ ",
+			"execute @e[type=armor_stand,name=vAutoReset,score_var_min=10,score_var=10] ~ ~ ~ ",
+			"menuAdmin",
+			"menu",
+			"lobbyDisplay",
+			" admin",
+			"_admin",
+			"scoreboard",
+			"_admin",
+			"execute @e[type=armor_stand,name=vToggleMenu,score_var_min=11,score_var=11] ~ ~ ~ ",
+			"execute @e[type=armor_stand,name=vToggleMenu,score_var_min=10,score_var=10] ~ ~ ~ ",
+			"admin",
+			"lobbyDisplay",
+			"m",
+			"9",
+			"_admin",
+			"score_var",
+			"_admin",
+			"trigger",
+			"[{\"text\"",
+			"add",
+			"dark_purple",
+			"execute @e[type=armor_stand,name=vReady2,score_var_min=10,score_var=10] ~ ~ ~ ",
+			"execute @e[type=armor_stand,name=vReady2,score_var_min=11,score_var=11] ~ ~ ~ ",
+			"4",
+			"add",
+			"0",
+			"execute @e[type=armor_stand,name=vReady3,score_var_min=11,score_var=11] ~ ~ ~ ",
+			"execute @e[type=armor_stand,name=vReady3,score_var_min=10,score_var=10] ~ ~ ~ ",
+			"6",
+			"ready3",
+			"0",
+			"function",
+			"_trigger",
+			"execute @e[type=armor_stand,name=vReady2,score_var_min=10,score_var=10] ~ ~ ~ ",
+			"countdown_timer",
+			"execute @e[type=armor_stand,name=menu_ready,score_menuVar_min=4,score_menuVar=7] ~ ~ ~ ",
+			"trigger",
+			"execute @e[type=armor_stand,name=vReady2,score_var_min=11,score_var=11] ~ ~ ~ ",
+			"are",
+			"trigger",
+			"Team1",
+			"Defenders",
+			"trigger",
+			"triggerTeam",
+			"score_adm",
+			"score_act",
+			"countdown_start",
+			"score_admin",
+			"activate",
+			"admin=2",
+			"eris",
+			"vTime",
+			"resetcount",
+			"]",
+			"title",
+			"vTime",
+			"subtellraw",
+			"subtitle",
+			"title",
+			"1",
+			"adming",
+			"tellraw",
+			"air",
+			"updateplayer",
+			"setw",
+			"randomteam",
+			"reset",
+			"vswap",
+			"var",
+			"randomteam",
+			"setdis",
+			"-78",
+			"1000",
+			"-79",
+			"1000",
+			"-80",
+			"180",
+			"200",
+			"-803",
+			"Moeshroom2",
+			"-1000",
+			"spawnerActiveB",
+			"] ~ ~ ~ detect",
+			"-1",
+			"reset",
+			"0",
+			"score_var",
+			"notjeven",
+			"objective",
+			"name",
+			"leashed_knot",
+			"hologram"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"e_playerSi",
+			"e_playerRe",
+			"e_playerInG",
+			"InGame=2",
+			"_playerRespawn",
+			"_playerInG",
+			"_playerS",
+			"_playerInG",
+			"_player",
+			"_playerRes",
+			"_player",
+			"_playerIn",
+			"[{\"text\":\" | \"}]",
+			"",
+			"\"],\n[",
+			"",
+			"}]",
+			" \"],",
+			"[\"te",
+			"_menuLeft",
+			"@p menuAdmin",
+			"ready2",
+			"y2",
+			"menuOption",
+			"menuTeam",
+			"menuOption",
+			"_menuAdmin",
+			"",
+			"_menuAdmin",
+			"",
+			"menuDisplay",
+			"menuAdmin",
+			"_menuAdmin",
+			"_adminMenu",
+			"menuTeam",
+			"",
+			"menuAdmin",
+			"menuDisplay",
+			"_menuAdmin",
+			"score_menuVar",
+			"_menuAdmin",
+			"menu",
+			"",
+			"_menu",
+			"",
+			"menu_countdown",
+			"",
+			"menu",
+			"execute @e[type=armor_stand,name=menu_ready,score_menuVar_min=2,score_menuVar=3] ~ ~ ~",
+			"menu",
+			"menuTeam",
+			"score_menuAdm",
+			"score_menuAct",
+			"score_menuAdmin",
+			"menuActivate",
+			"menu_activate",
+			"§n",
+			"notjeven"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "playerhandle.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 428.0
+	},
+	"output.git-checkout":
+	{
+		"height": 142.0
+	},
+	"output.git-commit":
+	{
+		"height": 142.0
+	},
+	"output.git-pull":
+	{
+		"height": 142.0
+	},
+	"output.git-push":
+	{
+		"height": 142.0
+	},
+	"output.package_dev":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "playerhandle.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\GameHandle\\functions\\gamehandle\\clock.mcfunction"
+			],
+			[
+				"dea",
+				"C:\\Projects\\PlayerHandle\\function\\playerhandle\\death_end.mcfunction"
+			],
+			[
+				"restar",
+				"restart_start.mcfunction"
+			],
+			[
+				"start",
+				"restart_start.mcfunction"
+			],
+			[
+				"var_",
+				"var_set.mcfunction"
+			],
+			[
+				"var",
+				"var_set.mcfunction"
+			],
+			[
+				"menuon",
+				"menu_on.mcfunction"
+			],
+			[
+				"restart",
+				"restart_start.mcfunction"
+			],
+			[
+				"start_read",
+				"countdown_start_ready.mcfunction"
+			],
+			[
+				"starte",
+				"countdown_start_reset.mcfunction"
+			],
+			[
+				"vars",
+				"var_set.mcfunction"
+			],
+			[
+				"coutn",
+				"countdown_start_ready.mcfunction"
+			],
+			[
+				"admin_",
+				"admin_start.mcfunction"
+			],
+			[
+				"activa",
+				"activate_admin.mcfunction"
+			],
+			[
+				"ac",
+				"activate_admin.mcfunction"
+			],
+			[
+				"team",
+				"team1.mcfunction"
+			],
+			[
+				"cou",
+				"countdown_action.mcfunction"
+			],
+			[
+				"team1",
+				"team1.mcfunction"
+			],
+			[
+				"end",
+				"countdown_end.mcfunction"
+			],
+			[
+				"act",
+				"activate_admin.mcfunction"
+			],
+			[
+				"admin",
+				"admin_make.mcfunction"
+			],
+			[
+				"obj",
+				"objective_init.mcfunction"
+			],
+			[
+				"left",
+				"left.mcfunction"
+			],
+			[
+				"menu",
+				"menu_on.mcfunction"
+			],
+			[
+				"cloc",
+				"clock.mcfunction"
+			],
+			[
+				"player",
+				"mcmenu\\player_init.mcfunction"
+			],
+			[
+				"clock",
+				"mcmenu\\clock.mcfunction"
+			],
+			[
+				"men",
+				"mcmenu\\menu_on.mcfunction"
+			],
+			[
+				"menuo",
+				"mcmenu\\menu_off.mcfunction"
+			],
+			[
+				"random",
+				"mcmenu\\random_teams_done.mcfunction"
+			],
+			[
+				"menu_",
+				"mcmenu\\menu_off.mcfunction"
+			],
+			[
+				"togg",
+				"mcmenu\\toggle_menu.mcfunction"
+			],
+			[
+				"admin_star",
+				"mcmenu\\admin_start.mcfunction"
+			],
+			[
+				"a",
+				"mcmenu\\activate_admin.mcfunction"
+			],
+			[
+				"object",
+				"mcmenu\\objective_init.mcfunction"
+			],
+			[
+				"3_not",
+				"mcmenu\\ready3_not.mcfunction"
+			],
+			[
+				"ready_cal",
+				"mcmenu\\ready_calc.mcfunction"
+			],
+			[
+				"close",
+				"functions\\eris\\loadandreset.mcfunction"
+			],
+			[
+				"countdown",
+				"mcmenu\\countdown_end.mcfunction"
+			],
+			[
+				"read2_no",
+				"mcmenu\\ready2_not.mcfunction"
+			],
+			[
+				"ready2",
+				"mcmenu\\ready2.mcfunction"
+			],
+			[
+				"read1_not",
+				"mcmenu\\ready1_not.mcfunction"
+			],
+			[
+				"ready3_not",
+				"mcmenu\\ready3_not.mcfunction"
+			],
+			[
+				"ready3",
+				"mcmenu\\ready3.mcfunction"
+			],
+			[
+				"ready3_",
+				"mcmenu\\ready3_toggle.mcfunction"
+			],
+			[
+				"ready1",
+				"mcmenu\\ready1.mcfunction"
+			],
+			[
+				"ready1_to",
+				"mcmenu\\ready1_toggle.mcfunction"
+			],
+			[
+				"coutndo_start",
+				"mcmenu\\countdown_start_reset.mcfunction"
+			],
+			[
+				"menu_off",
+				"mcmenu\\menu_off.mcfunction"
+			],
+			[
+				"toggle",
+				"mcmenu\\toggle_menu.mcfunction"
+			],
+			[
+				"reset_off",
+				"mcmenu\\reset_off.mcfunction"
+			],
+			[
+				"reset_on",
+				"mcmenu\\reset_on.mcfunction"
+			],
+			[
+				"reset_a",
+				"mcmenu\\reset_auto_toggle.mcfunction"
+			],
+			[
+				"countdown_",
+				"mcmenu\\countdown_start_ready.mcfunction"
+			],
+			[
+				"coundotn",
+				"mcmenu\\countdown_action_start.mcfunction"
+			],
+			[
+				"1_to",
+				"mcmenu\\ready1_toggle.mcfunction"
+			],
+			[
+				"2_to",
+				"mcmenu\\ready2_toggle.mcfunction"
+			],
+			[
+				"var_set",
+				"mcmenu\\var_set.mcfunction"
+			],
+			[
+				"3_toggle",
+				"mcmenu\\ready3_toggle.mcfunction"
+			],
+			[
+				"2_not",
+				"mcmenu\\ready2_not.mcfunction"
+			],
+			[
+				"3",
+				"functions\\eris\\ready3.mcfunction"
+			],
+			[
+				"3_to",
+				"mcmenu\\ready3_toggle.mcfunction"
+			],
+			[
+				"read1not",
+				"mcmenu\\ready1_not.mcfunction"
+			],
+			[
+				"ready1_toggle",
+				"mcmenu\\ready1_toggle.mcfunction"
+			],
+			[
+				"ready3_to",
+				"mcmenu\\ready3_toggle.mcfunction"
+			],
+			[
+				"ready2_to",
+				"mcmenu\\ready2_toggle.mcfunction"
+			],
+			[
+				"ready",
+				"mcmenu\\ready1.mcfunction"
+			],
+			[
+				"team2",
+				"mcmenu\\team2.mcfunction"
+			],
+			[
+				"objec",
+				"mcmenu\\objective_init.mcfunction"
+			],
+			[
+				"req",
+				"mcmenu\\request.mcfunction"
+			],
+			[
+				"countdown_ac",
+				"mcmenu\\countdown_action_start.mcfunction"
+			],
+			[
+				"count",
+				"mcmenu\\countdown_action.mcfunction"
+			],
+			[
+				"reset",
+				"functions\\eris\\autoresettoggle.mcfunction"
+			],
+			[
+				"score",
+				"functions\\eris\\scorereset.mcfunction"
+			],
+			[
+				"load",
+				"functions\\eris\\loadandreset.mcfunction"
+			],
+			[
+				"startre",
+				"functions\\eris\\startreset.mcfunction"
+			],
+			[
+				"activate_ad",
+				"mcmenu\\activate_admin.mcfunction"
+			],
+			[
+				"remove_",
+				"mcmenu\\remove_admin.mcfunction"
+			],
+			[
+				"remove",
+				"functions\\eris\\removeadmin.mcfunction"
+			],
+			[
+				"1_not",
+				"mcmenu\\ready1_not.mcfunction"
+			],
+			[
+				"coun",
+				"mcmenu\\countdown_action.mcfunction"
+			],
+			[
+				"actionstar",
+				"mcmenu\\countdown_action_start.mcfunction"
+			],
+			[
+				"adminstar",
+				"functions\\eris\\adminstart.mcfunction"
+			],
+			[
+				"randomteam",
+				"functions\\eris\\randomteam.mcfunction"
+			],
+			[
+				"ready1_not",
+				"mcmenu\\ready1_toggle.mcfunction"
+			],
+			[
+				"read2",
+				"mcmenu\\ready2.mcfunction"
+			],
+			[
+				"read3",
+				"functions\\eris\\ready3.mcfunction"
+			],
+			[
+				"read1",
+				"functions\\eris\\ready1.mcfunction"
+			],
+			[
+				"read1_",
+				"mcmenu\\ready1_not.mcfunction"
+			],
+			[
+				"read2_",
+				"mcmenu\\ready2_not.mcfunction"
+			],
+			[
+				"cout",
+				"mcmenu\\countdown_action.mcfunction"
+			],
+			[
+				"read",
+				"functions\\eris\\ready.mcfunction"
+			],
+			[
+				"team3",
+				"functions\\eris\\team3.mcfunction"
+			],
+			[
+				"teamleave",
+				"mcmenu\\team_leave.mcfunction"
+			],
+			[
+				"ob",
+				"mcmenu\\objective_init.mcfunction"
+			],
+			[
+				"activateadmin",
+				"functions\\eris\\activateadmin.mcfunction"
+			],
+			[
+				"acti",
+				"functions\\eris\\activate.mcfunction"
+			],
+			[
+				"request",
+				"functions\\eris\\requestmenu.mcfunction"
+			],
+			[
+				"action_start",
+				"mcmenu\\countdown_action_start.mcfunction"
+			],
+			[
+				"inva",
+				"functions\\eris\\invaderwin.mcfunction"
+			],
+			[
+				"invad",
+				"functions\\eris\\invaderwin.mcfunction"
+			],
+			[
+				"15",
+				"functions\\eris\\15.mcfunction"
+			],
+			[
+				"summon",
+				"functions\\eris\\summonvars.mcfunction"
+			],
+			[
+				"clo",
+				"mcmenu\\clock.mcfunction"
+			],
+			[
+				"c",
+				"functions\\eris\\clock.mcfunction"
+			],
+			[
+				"activate",
+				"functions\\eris\\activate.mcfunction"
+			],
+			[
+				"eggs",
+				"functions\\eris\\eggs.mcfunction"
+			],
+			[
+				"auto",
+				"functions\\eris\\autoresettoggle.mcfunction"
+			],
+			[
+				"todo",
+				"Eris\\todo.md"
+			],
+			[
+				"playerin",
+				"functions\\eris\\playerinit.mcfunction"
+			],
+			[
+				"chan",
+				"updated tech to 1.12 and to mcfunctions"
+			],
+			[
+				"spawner",
+				"functions\\eris\\spawner6.mcfunction"
+			],
+			[
+				"toggl",
+				"functions\\eris\\togglemenu.mcfunction"
+			],
+			[
+				"endga",
+				"functions\\eris\\endgame.mcfunction"
+			],
+			[
+				"summ",
+				"functions\\summonvars.mcfunction"
+			],
+			[
+				"10",
+				"functions\\eris\\10.mcfunction"
+			],
+			[
+				"enddi",
+				"functions\\eris\\enddisplay.mcfunction"
+			],
+			[
+				"30",
+				"functions\\eris\\30.mcfunction"
+			],
+			[
+				"tea",
+				"functions\\eris\\team1.mcfunction"
+			],
+			[
+				"team0",
+				"functions\\eris\\team0.mcfunction"
+			],
+			[
+				"alive",
+				"functions\\eris\\alivewhile.mcfunction"
+			],
+			[
+				"update",
+				"functions\\eris\\updateplayerdisplay.mcfunction"
+			],
+			[
+				"0",
+				"functions\\eris\\0.mcfunction"
+			],
+			[
+				"un",
+				"functions\\eris\\updateplayerdisplay.mcfunction"
+			],
+			[
+				"death",
+				"functions\\eris\\deathwhile.mcfunction"
+			],
+			[
+				"startres",
+				"functions\\eris\\startreset.mcfunction"
+			],
+			[
+				"tod",
+				"Eris\\todo.md"
+			],
+			[
+				"teamset",
+				"functions\\eris\\teamset.mcfunction"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\GameHandle\\gamehandle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
